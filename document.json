@@ -1,0 +1,39 @@
+{
+  "name": "US Hiring Rates",
+  "description": "This dataset provides daily updates on the volume of US job listings",
+  "logo": "_images/dataset.png",
+  "has_supporting_content": false,
+  "stack_id": "us-hiring-rates-dataset",
+  "type": "Dataset",
+  "categories": [
+    "Employment"
+  ],
+  "commands": [
+    {
+      "description": "Get Dataset",
+      "exec": "cd /home/"
+    }
+  ],
+  "platform": "Kubernetes",
+  "cover": "cover.md",
+  "buckets": [ "greenwichhr-covidjobimpacts" ],
+  "display": [
+    {
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserver",
+      "enabled": true
+    }
+  ],
+  "meta": {
+    "Install time": [
+      "3 minutes"
+    ],
+    "Language": [
+      "S3"
+    ],
+    "categories": [
+      "Employment"
+    ]
+  },
+  "isDocumentSaved": true
+}
