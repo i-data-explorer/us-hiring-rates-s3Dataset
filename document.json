@@ -16,9 +16,10 @@
     "Install time": [
       "3 minutes"
     ],
-    "Language": [
-      "S3"
+    "Type": [
+      "Dataset",
     ],
+    "Tag": [ "S3" ],
     "categories": [
       "Employment"
     ]
