@@ -4,12 +4,9 @@
   "logo": "_images/dataset.png",
   "has_supporting_content": false,
   "de_catalog_id": "us-hiring-rates-dataset",
-  "type": "Dataset",
   "categories": [
     "Employment"
   ],
-  "commands": [],
-  "platform": "Kubernetes",
   "cover": "cover.md",
   "buckets": [ "greenwichhr-covidjobimpacts" ],
   "meta": {
@@ -20,9 +17,11 @@
       "Dataset"
     ],
     "Tag": [ "S3" ],
-    "categories": [
+    "Categories": [
       "Employment"
+    ],
+"Catalog Id": [
+      "us-hiring-rates-dataset"
     ]
-  },
-  "isDocumentSaved": true
+  }
 }
