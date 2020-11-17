@@ -8,22 +8,10 @@
   "categories": [
     "Employment"
   ],
-  "commands": [
-    {
-      "description": "Get Dataset",
-      "exec": "cd /home/"
-    }
-  ],
+  "commands": [],
   "platform": "Kubernetes",
   "cover": "cover.md",
   "buckets": [ "greenwichhr-covidjobimpacts" ],
-  "display": [
-    {
-      "name": "Developer Dashboard",
-      "url": "##DNS.host##/codeserver",
-      "enabled": true
-    }
-  ],
   "meta": {
     "Install time": [
       "3 minutes"
