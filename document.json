@@ -1,7 +1,7 @@
 {
   "name": "US Hiring Rates",
   "description": "This dataset provides daily updates on the volume of US job listings",
-  "logo": "_images/dataset.png",
+  "logo": "_images/dataset-1.png",
   "has_supporting_content": false,
   "de_catalog_id": "us-hiring-rates-dataset",
   "categories": [
