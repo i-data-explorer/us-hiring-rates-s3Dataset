@@ -10,7 +10,7 @@
   "cover": "cover.md",
   "buckets": [ "greenwichhr-covidjobimpacts" ],
   "meta": {
-    "Install time": [
+    "Install Time": [
       "3 minutes"
     ],
     "Type": [
@@ -19,6 +19,15 @@
     "Tag": [ "S3" ],
     "Categories": [
       "Employment"
+    ],
+    "Update Frequency": [
+      "Monthly"
+     ],
+    "Last Updated": [
+      "01/01/2021"
+    ],
+    "License": [
+      "N/A"
     ],
 "Catalog Id": [
       "us-hiring-rates-dataset"
